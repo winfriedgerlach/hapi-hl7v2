@@ -86,6 +86,12 @@
 
 		</section>
 
+        <section name="HAPI HL7v2 2.6.0 Released - Feb 5, 2025">
+            <p>
+                It is now possible to explicitly specify a socket connect timeout on newly created client sockets.
+            </p>
+        </section>
+
 		<section name="HAPI HL7v2 2.5.2 Released - May 15, 2024">
 			<p>
 				AbstractMessage.copy() changed Z segments within the message. This has been corrected
