@@ -90,7 +90,7 @@ target/generated-sources/confgen
 
 Runtime Message Validator
 
-  The {{{http://hl7api.sourceforge.net/base/apidocs/ca/uhn/hl7v2/conf/check/DefaultValidator.html}Default Validator}} 
+  The {{{https://hapifhir.github.io/hapi-hl7v2/base/apidocs/ca/uhn/hl7v2/conf/check/DefaultValidator.html}Default Validator}}
   accepts a conformance profile and validates a message against it at runtime. Example usage:
 
 +---------------+
