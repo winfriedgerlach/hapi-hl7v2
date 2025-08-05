@@ -33,7 +33,7 @@ Conformance Class Generator
 * Usage
 
   First, generate a conformance profile using the 
-  {{{http://www.hl7.org/documentcenter/public/wg/ictc/MWB%20Release%206.8.zip}Message Workbench}} tool.
+  {{{http://www.hl7.org/documentcenter/public/wg/ictc/MWB%20Release%206.8.zip}Messaging Workbench}} tool.
   This tool will export your profile as an XML file, which can be read by the conformance class generator. Save
   this file in your project under 
 

@@ -218,7 +218,7 @@
 <br />
 The API changes are non-breaking, so existing applications will work without modification, but we would encourage developers to migrate their code where possible to use the new APIs, since this will make code more readable. Information on how to migrate is found&nbsp;<a href="https://hapifhir.github.io/hapi-hl7v2/upgrade_to_hapi_2_1.html">here.</a><br />
 <br />
-As always, a complete changelog is available&nbsp;<a href="https://hapifhir.github.io/hapi-hl7v2/changes-report.html">here</a>. The website has also been enhanced with a new page outlining the&nbsp;<a href="http://hl7api.sourceforge.net/hapi-sourcegen/confgen-usage.html">Maven plugins</a>&nbsp;available. This means that we finally have a good document explaning how one might generate their own custom message structure classes using Message Workbench (something we have been doing for years at <a href="http://www.uhn.ca/">UHN</a>&nbsp;but have never documented).<br />
+As always, a complete changelog is available&nbsp;<a href="https://hapifhir.github.io/hapi-hl7v2/changes-report.html">here</a>. The website has also been enhanced with a new page outlining the&nbsp;<a href="http://hl7api.sourceforge.net/hapi-sourcegen/confgen-usage.html">Maven plugins</a>&nbsp;available. This means that we finally have a good document explaning how one might generate their own custom message structure classes using Messaging Workbench (something we have been doing for years at <a href="http://www.uhn.ca/">UHN</a>&nbsp;but have never documented).<br />
 <br />
 The new release has been uploaded to Sourceforge, and has also had time to synchronize to the global Maven repos, so it should be fully available now. Thanks to everyone who contributed!</p>
 
